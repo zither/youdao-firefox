@@ -16,17 +16,6 @@
 	</hbox>
 	<groupbox>
 		<button label="&login;" oncommand="fasttransk.login();" />
-
 		<caption label="&defset;"/>
-		<label control="lfrom" value="&transfrom;"/>
-		<menulist id="lfrom">
-			<menupopup>
-			</menupopup>
-		</menulist>
-		<label control="lto" value="&transto;"/>
-		<menulist id="lto">
-			<menupopup>
-			</menupopup>
-		</menulist>
 	</groupbox>
 </dialog>

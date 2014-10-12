@@ -8,23 +8,8 @@
 		onunload="fasttransk.resultclose();" 
 		>
 	<script src="youdaotrans.js" />
-	<hbox align="center" id="htop">
-		<label control="lfrom" value="&transfrom;"/>
-		<menulist id="lfrom">
-		  <menupopup>
-		  </menupopup>
-		</menulist>
-		<button id="buttonreplace" label="&lt;-&gt;" oncommand="fasttransk.replace();" />
-		<label control="lto" value="&transto;"/>
-		<menulist id="lto">
-		  <menupopup>
-		  </menupopup>
-		</menulist>
-	</hbox>
-
 	<hbox id="voiceb" style="padding:2px;height:15px;width:15px">
 		<label id="labfrom" value="&orgtxt;" control="resfrom" />
-		
 		
 		<html:object width="15" height="15" align="absmiddle" id="speach_flash" type="application/x-shockwave-flash" data="http://cidian.youdao.com/chromeplus/voice.swf" flashvars="audio=http://dict.youdao.com/speech?audio=thinking" bgcolor="#ffffff" wmode="transparent" menu="false" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" >
   	
