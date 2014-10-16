@@ -2,13 +2,6 @@ content	youdaotrans	content/
 overlay	chrome://browser/content/browser.xul	chrome://youdaotrans/content/youdaotrans.xul
 
 locale	youdaotrans	en-US	locale/en-US/
-locale	youdaotrans	pl-PL		locale/pl-PL/
 locale	youdaotrans	zh-CN		locale/zh-CN/
-locale	youdaotrans	fr-FR		locale/fr-FR/
-locale	youdaotrans	pt-BR		locale/pt-BR/
-locale	youdaotrans	ru-RU	locale/ru-RU/
-locale	youdaotrans	es-ES		locale/es-ES/
-locale	youdaotrans	de-DE	locale/de-DE/
-
 
 skin	youdaotrans	classic/1.0	skin/
